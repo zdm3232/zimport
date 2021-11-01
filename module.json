@@ -1,0 +1,13 @@
+{
+  "name": "zimport",
+  "title": "zimport",
+  "description": "Obsidian Journal Import",
+  "version": "0.1",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "author": "zDM",
+  "esmodules": ["./zimport.js" ],
+  "url": "https://github.com/zdm3232/zimport",
+  "manifest": "https://raw.githubusercontent.com/zdm3232/zimport/master/module.json",
+  "download": "https://github.com/zdm3232/zimport/archive/refs/tags/v0.1.zip"
+}
